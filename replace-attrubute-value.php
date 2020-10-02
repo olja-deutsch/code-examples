@@ -1,5 +1,5 @@
 <?php
-// Replace attributes value in product description
+// Replace attributes value in product description (WordPress)
 
 function replace_product_attr() {
 
